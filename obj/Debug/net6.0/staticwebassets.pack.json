@@ -1,0 +1,2717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ac_Technician.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ac_Technician.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\Dashboard\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\Dashboard\\ISSUE_TEMPLATE.md"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Dashboard\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\README.md",
+      "PackagePath": "staticwebassets\\Dashboard\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\css\\material-dashboard.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\material-dashboard.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\css\\material-dashboard.css.map",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\material-dashboard.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\css\\material-dashboard.min.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\material-dashboard.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\apple-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\bg-pricing.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\bg-pricing.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\bg-smart-home-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\bg-smart-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\bg-smart-home-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\bg-smart-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\drake.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\drake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\chat.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\chat.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\danger-chat-ill.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\danger-chat-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\dark-lock-ill.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\dark-lock-ill.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\error-404.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\error-500.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\error-500.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\illustration-lock.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\illustration-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\illustration-reset.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\illustration-reset.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\illustration-signin.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\illustration-signin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\illustration-signup.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\illustration-signup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\illustration-verification.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\illustration-verification.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\lock.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\pattern-tree.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\pattern-tree.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\ivana-squares.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\ivana-squares.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-coinbase.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-nasa.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-nasa.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-netflix.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-netflix.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-pinterest.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\gray-logos\\logo-vodafone.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\marie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\meeting.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\meeting.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\office-dark.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\office-dark.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-1-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-1-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-11.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-2-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-2-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-3-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-3-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-4-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-4-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-5-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-5-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-6-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-6-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-7-min.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-7-min.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\products\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\products\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\creative-tim.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\creative-tim.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\devto.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\devto.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\github.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\github.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\google-webdev.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\google-webdev.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\icon-bulb.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\icon-bulb.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-asana.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-asana.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\team-5.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\tesla-model-s.png",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\tesla-model-s.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\material-dashboard.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\material-dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\material-dashboard.js.map",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\material-dashboard.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\material-dashboard.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\material-dashboard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\chartjs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\countup.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\countup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\js\\plugins\\world.js",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\js\\plugins\\world.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_icons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_ripple.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\cards\\card-rotate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\_vendor.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_ripple.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_ripple.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\Dashboard\\assets\\scss\\material-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\composer.json",
+      "PackagePath": "staticwebassets\\Dashboard\\composer.json"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\docs\\documentation.html",
+      "PackagePath": "staticwebassets\\Dashboard\\docs\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\gulpfile.js",
+      "PackagePath": "staticwebassets\\Dashboard\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\index.html",
+      "PackagePath": "staticwebassets\\Dashboard\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\package.json",
+      "PackagePath": "staticwebassets\\Dashboard\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\billing.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\billing.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\dashboard.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\dashboard.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\icons.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\icons.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\map.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\map.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\notifications.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\notifications.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\profile.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\rtl.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\rtl.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\sign-in.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\sign-in.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\sign-up.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\sign-up.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\tables.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\tables.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\template.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\template.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\typography.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\pages\\virtual-reality.html",
+      "PackagePath": "staticwebassets\\Dashboard\\pages\\virtual-reality.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\Dashboard\\template.html",
+      "PackagePath": "staticwebassets\\Dashboard\\template.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\404.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\about.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\ac-repair-website-template.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\ac-repair-website-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\contact.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\css\\style.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\feature.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\feature.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-01-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-01-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-01-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-01-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-02-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-02-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-02-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-02-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-03-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-03-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-03-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-03-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-04-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-04-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-04-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-04-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-05-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-05-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-05-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-05-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-06-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-06-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-06-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-06-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-07-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-07-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-07-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-07-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-08-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-08-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-08-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-08-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-09-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-09-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-09-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-09-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-10-light.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-10-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-10-primary.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\icon\\icon-10-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-5.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\service-6.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\index.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\js\\main.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\parallax\\parallax.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\parallax\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\quote.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\quote.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\service.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\team.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\aircon-1.0.0\\aircon-1.0.0\\testimonial.html",
+      "PackagePath": "staticwebassets\\aircon-1.0.0\\aircon-1.0.0\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\users\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\css\\style.css",
+      "PackagePath": "staticwebassets\\users\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\about-1.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\about-2.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\about-3.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\about-4.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-01-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-01-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-01-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-01-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-02-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-02-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-02-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-02-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-03-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-03-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-03-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-03-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-04-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-04-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-04-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-04-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-05-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-05-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-05-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-05-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-06-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-06-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-06-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-06-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-07-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-07-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-07-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-07-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-08-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-08-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-08-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-08-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-09-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-09-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-09-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-09-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-10-light.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-10-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\icon\\icon-10-primary.png",
+      "PackagePath": "staticwebassets\\users\\img\\icon\\icon-10-primary.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-5.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\service-6.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\users\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\js\\main.js",
+      "PackagePath": "staticwebassets\\users\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\users\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\users\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\users\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\parallax\\parallax.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\parallax\\parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\users\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\users\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\users\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\rayya\\Desktop\\areeba\\Ac_Technician\\Ac_Technician\\wwwroot\\users\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\users\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ac_Technician.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ac_Technician.props",
+      "PackagePath": "build\\Ac_Technician.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ac_Technician.props",
+      "PackagePath": "buildMultiTargeting\\Ac_Technician.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ac_Technician.props",
+      "PackagePath": "buildTransitive\\Ac_Technician.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
